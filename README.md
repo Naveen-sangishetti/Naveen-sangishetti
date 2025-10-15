@@ -20,7 +20,7 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/naveen kumar" target="blank" style="margin: 0 20px;">
+  <a href="https://www.linkedin.com/in/naveen-kumar-584964299/" target="blank" style="margin: 0 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="45" width="45"/>
   </a>
   <a href="mailto:sangishettinaveen04@gmail.com" target="blank" style="margin: 0 20px;">
