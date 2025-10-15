@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Naveen Kumar Sangishetti</h1>
+<!-- Animated Header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Naveen+Kumar+Sangishetti;AI+%26+Data+Science+Enthusiast;Fullstack+Developer;Always+learning+new+things!+🚀" alt="Typing SVG" />
+  </a>
+</h1>
+
 <h3 align="center">🚀 Final-year Computer Science Student | AI & Data Science Enthusiast | Fullstack Developer</h3>
 
 ---
@@ -13,42 +19,42 @@
 ---
 
 ### 🌐 Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/naveen kumar" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="naveen kumar" height="40" width="40" />
-</a>
-<a href="mailto:sangishettinaveen04@gmail.com" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
-</a>
-<a href="https://github.com/Naveen-sangishetti" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/naveen kumar" target="blank" style="margin: 0 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="45" width="45"/>
+  </a>
+  <a href="mailto:sangishettinaveen04@gmail.com" target="blank" style="margin: 0 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="45" width="45"/>
+  </a>
+  <a href="https://github.com/Naveen-sangishetti" target="blank" style="margin: 0 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="45" width="45"/>
+  </a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools  
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 15px;"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 15px;"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 15px;"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 15px;"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" style="margin: 15px;"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" style="margin: 15px;"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin: 15px;"/>
   </a>
 </p>
 
@@ -70,17 +76,5 @@ If you’re into AI, fullstack dev, or tech discussions — **let’s connect! �
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-sangishetti&show_icons=true&theme=radical" alt="github stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-sangishetti&theme=radical" alt="streak stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-sangishetti&layout=compact&theme=radical" alt="top languages" width="48%" />
-</p>
-
----
-
 ⭐ **“Code. Learn. Evolve.”**  
-Thanks for visiting my profile! 🙌
+<p align="center">Thanks for visiting my profile! 🙌</p>
