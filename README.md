@@ -5,12 +5,12 @@
   </a>
 </h1>
 
-<h3 align="center">🚀 Final-year Computer Science Student | AI & Data Science & Automation Enthusiast </h3>
+<h3 align="center">🚀 B.Tech Computer Science Student | AI & Data Science & Automation Enthusiast </h3>
 
 ---
 
 ### 👨‍💻 About Me  
-🎓 I’m a **Final-Year B.Tech CSE Student** passionate about building intelligent systems that make an impact.  
+🎓 I’m a **B.Tech CSE Student** passionate about building intelligent systems that make an impact.  
 💡 I enjoy working on **AI, Data Science, and Fullstack Development** projects that challenge me to learn and grow.  
 🌱 Currently exploring **Automation** and how it integrates with AI.  
 🤝 I’m open to **collaborations on AI, ML, and web development** projects.  
