@@ -5,14 +5,14 @@
   </a>
 </h1>
 
-<h3 align="center">🚀 Final-year Computer Science Student | AI & Data Science Enthusiast | Fullstack Developer</h3>
+<h3 align="center">🚀 Final-year Computer Science Student | AI & Data Science & Automation Enthusiast </h3>
 
 ---
 
 ### 👨‍💻 About Me  
 🎓 I’m a **Final-Year B.Tech CSE Student** passionate about building intelligent systems that make an impact.  
 💡 I enjoy working on **AI, Data Science, and Fullstack Development** projects that challenge me to learn and grow.  
-🌱 Currently exploring **Blockchain** and how it integrates with AI.  
+🌱 Currently exploring **Automation** and how it integrates with AI.  
 🤝 I’m open to **collaborations on AI, ML, and web development** projects.  
 📚 When I’m not coding, I’m reading **AI research papers** or practicing **LeetCode** problems.  
 
@@ -63,9 +63,9 @@
 
 ### 🚧 Projects & Work  
 Here are some of the projects I’ve worked on:  
-- 🔗 **Blockchain-based Project** — Exploring secure decentralized systems.  
-- 🤖 **AI Models** — Building machine learning and data-driven systems.  
-- 🌐 **Fullstack Web Apps** — Creating responsive and scalable web applications.
+- 🔗 **IPL DATA ANALYSIS PROJECT** — Gives insights of Players and Matches.  
+- 🤖 **FIT_GEN_AI** — A personaliseed Nutrition assisstant.  
+- 🌐 **Web Apps** — Built a responsive and scalable web application for a Builder.
 
 📂 You can find all my projects here 👉 [**My GitHub Repositories**](https://github.com/Naveen-sangishetti)
 
